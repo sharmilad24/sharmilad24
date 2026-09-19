@@ -25,7 +25,6 @@
 <table>
 <tr>
 <td width="52%" valign="top">
-🌌 the idea
 I’m a Computer Science junior at Georgia State University interested in the space where machine learning, data, software engineering, and real products overlap.
 I like building systems that start as an idea and end as something people can actually interact with.
 Current mode:  
